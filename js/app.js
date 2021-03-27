@@ -73,7 +73,7 @@ let sliderSlider = new Swiper('.slider', {
 	slidesPerView: 3, //можно указать 1.5
 
 	// Автовысота
-	autoHeight: true,
+	// autoHeight: true,
 
 	//Отступ между слайдами
 	spaceBetween: 50,
